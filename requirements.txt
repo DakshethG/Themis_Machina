@@ -1,0 +1,12 @@
+# Themis Machina — always-needed dependencies (phase-specific deps added later)
+pydantic
+pydantic-settings
+httpx
+litellm
+qdrant-client
+pymupdf
+rank-bm25
+python-dotenv
+tenacity
+tqdm
+pytest
